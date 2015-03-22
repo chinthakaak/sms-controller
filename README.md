@@ -4,4 +4,8 @@ This project shows the use of RaspberryPi computer to build a control system usi
 #Installation
 
 #Architecture
-![arc]images/arch.png
+![arc](images/arch.png)
+
+![prot](images/prot.png)
+
+![sig](images/sig.png)
